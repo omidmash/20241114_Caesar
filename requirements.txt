@@ -1,1 +1,12 @@
-pyenchant==3.2.2
+beautifulsoup4==4.12.3
+certifi==2024.8.30
+charset-normalizer==3.4.0
+colorama==0.4.6
+crayons==0.4.0
+duden==0.19.1
+idna==3.10
+pyxdg==0.28
+PyYAML==6.0.2
+requests==2.32.3
+soupsieve==2.6
+urllib3==2.2.3
